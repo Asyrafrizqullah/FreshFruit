@@ -3,9 +3,9 @@ Nama : Muh Asyraf Rizqullah
 Nim  : 19.11.2777
 Kelas: IF03
 TUGAS
-1 Apa fungsi BuckEventListener?
-2 Buatlah Class Diagaramnya
-3 Berilah pembahasan alur atau logika pemrogramannya.
+- Apa fungsi BuckEventListener?
+- Buatlah Class Diagaramnya
+- Berilah pembahasan alur atau logika pemrogramannya.
 JAWABAN
 1. Fungsi EventListener adalah manampilkan pesan saat menabahkan buah pada keranjang serta menampilkan ui pada aplikasi
 2. ![alt text](https://github.com/Asyrafrizqullah/FreshFruit/blob/main/FreshFruit/ClassDiagram.JPG)
